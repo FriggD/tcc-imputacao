@@ -1,0 +1,7 @@
+log/
+!log/.gitkeep
+!/examples/ .gitkeep
+*.pyc
+*.vcf
+__pycache__/*
+README_en.md
